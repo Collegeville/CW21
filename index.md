@@ -6,6 +6,7 @@
 
 ### Details
 - [**Sign up for Collegeville 2021!**](Registration2021.md)
+- [**Collegeville Workshop Series**](https://collegeville.github.io/Workshops/)
 
 - Contact: Mike Heroux
   - <maherou@sandia.gov>
