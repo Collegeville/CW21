@@ -2,7 +2,7 @@
 
 ### Want to be part of the 2021 Collegeville Workshop on Scientific Software?
 
-We plan on hosting another workshop in July 2021, with a focus on software sustainability.
+We plan on hosting another workshop in July 2021, with a focus on software teams.
 
 [Collegeville 2021](https://collegeville.github.io/CW21) registration is performed by [**joining the Collegeville 2021 Slack workspace**](https://join.slack.com/t/collegeville2021/shared_invite/zt-g1wpuz50-w3I2FsLrioq~kwUOvBAvWw).  Once you have joined this workspace, you will receive all further correspondence about the workshop via Slack.
 
