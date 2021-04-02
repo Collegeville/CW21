@@ -4,7 +4,7 @@
 We welcome your contributed recording to the workshop.  Here are a few general guidelines:
 - Talks, discussions and interviews will be recorded and uploaded to YouTube: Your participation in the event signifies your consent to being recorded.
 - Brevity is valued: Focus on the key ideas. Viewers can reach out to you via Slack for follow up.
-- Keep all discussion positive and respectful:  We are building a community of people with the common interest of improving scientific software through better developer productivity.
+- Keep all discussion positive and respectful:  We are building a community of people with the common interest of improving scientific software through better software teams.
 
 ### Recorded Presentation Guidance
 A recorded presentation involves a single speaker (or multiple speakers in sequence) delivering a talk aided by slides. Instructions:
@@ -24,7 +24,7 @@ A recorded discussion involves several people who can speak authoritatively to a
 ### Recorded Interview Guidance
 A recorded involves one or two interviewees, along with an interviewer to guide the conversation. Instructions:
 - You will be contacted by one of the workshop organizers to find a time to meet by Zoom to record your interview.
-- The interview will touch on the four developer productivity sub-themes of the workshop: definitions, challenges, technical improvements and cultural improvements.  The moderator will prompt you for any thoughts you have on the sub-themes and omit those that may not be of interest to you. 
+- The interview will touch on the four software teams sub-themes of the workshop: definitions, challenges, technical improvements and cultural improvements.  The moderator will prompt you for any thoughts you have on the sub-themes and omit those that may not be of interest to you. 
 - We are hoping to have all interviews recorded by Wednesday, July 15.
 - We plan to limit interviews from 10 to 15 minutes.  Shorter is better if possible.
 - We prefer not to use slides unless there is detailed technical information needed occasionally during the discussion.

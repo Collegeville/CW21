@@ -9,6 +9,6 @@
 | 11:30 am | **Break & Slack Discussions** |
 | 12:30 pm | **Discussion 2: Technical Approaches to Improved Software Teams** <br> Breakout rooms will be assigned randomly using Zoom <br> [**(Add to calendar)**](CW21-Discussion-2-Technical-Approaches.ics) |
 | 2:00 pm | **Break & Slack Discussions** |
-| 3:00 pm | **Posters/Teatimes 2: Technical Approaches to Improved Productivity** <br> **Posters:**  <br> [**(Add to calendar)**](CW21-TeaTime-Posters-2.ics) |
+| 3:00 pm | **Posters/Teatimes 2: Technical Approaches to Improved Software Teams** <br> **Posters:**  <br> [**(Add to calendar)**](CW21-TeaTime-Posters-2.ics) |
 
 #### [Back to Main Agenda](Agenda.md)
