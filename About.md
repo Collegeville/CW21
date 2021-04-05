@@ -4,4 +4,4 @@ The Collegeville Workshop Series on Scientific Software is intended to bring tog
 
 The first workshop in 2019 focused on software sustainability.  The 2020 workshop focused on developer productivity.  Collegeville 2021 will focus on software teams.
 
-#### [Back to Main Page](../../index.md)
+#### [Back to Main Page](index.md)
