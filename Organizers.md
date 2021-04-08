@@ -1,7 +1,9 @@
 ## Organizers
 
-Confirmed
 - Mike Heroux, Sandia National Laboratories, St. John's University
+- Keith Beattie, Lawrence Berkeley Laboratory
+- Hannah Cohoon, University of Texas at Austin
+- Anshu Dubey, Argonne National Laboratory
 - Vadim Dyadechko, ExxonMobil Corporation
 - Nur Fadel, Swiss National Supercomputing Center (CSCS)
 - Jacob Hemstad, Nvidia Corp.
@@ -11,10 +13,5 @@ Confirmed
 - Pat Quillen, MathWorks, Inc.
 - Elaine Raybourn, Sandia National Laboratories
 - James Willenbring, Sandia National Laboratories
-
-Invited
-- Keith Beattie, Lawrence Berkeley Laboratory
-- Lois Curfman McInnes, Argonne National Laboratory
-
 
 #### [Back to Main Page](index.md)
