@@ -10,6 +10,7 @@
 - Daniel S. Katz, University of Illinois at Urbana-Champaign
 - Sarah Knepper, Intel Corp.
 - Addi Malviya-Thakur, Oak Ridge National Laboratory
+- Lois Curfman McInnes, Argonne National Laboratory
 - Pat Quillen, MathWorks, Inc.
 - Elaine Raybourn, Sandia National Laboratories
 - James Willenbring, Sandia National Laboratories
