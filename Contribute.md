@@ -4,7 +4,7 @@ Any member of the computational science and engineering community who has an int
 
 | Contribution| Submission Date | Description                                |
 |-------------|-----------------|--------------------------------------------|
-| White paper | ~~June 25~~ **now June 29** | A brief document articulating impediments, challenges, opportunities or potential solutions to teams for scientific software. |
+| White paper | June 25 | A brief document articulating impediments, challenges, opportunities or potential solutions to teams for scientific software. |
 | Teatime theme | July 9 |A topic related to software teams for open discussion during teatime. If your teatime theme is accepted, you would facilitate a small group discussion on the theme during the July 20 – 22 workshop. |
 | Poster      |July 9  |A PDF or interactive webpage that will be the focus of small group discussion during teatime. If your poster is accepted, you would facilitate a small group discussion during the July 20 – 22 workshop.   |
 | Recorded presentation | July 9 | We will record short presentations on content selected from some of the submitted white papers. If your white paper content would make a good presentation for the workshop, we will contact you to inquire if you are interested in this opportunity. Recorded presentations will be available to attendees before the workshop. |
