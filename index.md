@@ -19,9 +19,9 @@
 - [**Attendees**](Attendees.md)
 
 - [**Agenda Overview**](Agenda.md)
-  - [**Tuesday, July 21 Detailed Agenda (TBD)**](Agenda-Day-1.md)
-  - [**Wednesday, July 22 Detailed Agenda (TBD)**](Agenda-Day-2.md)
-  - [**Thursday, July 23 Detailed Agenda (TBD)**](Agenda-Day-3.md)
+  - [**Tuesday, July 20 Detailed Agenda (TBD)**](Agenda-Day-1.md)
+  - [**Wednesday, July 21 Detailed Agenda (TBD)**](Agenda-Day-2.md)
+  - [**Thursday, July 22 Detailed Agenda (TBD)**](Agenda-Day-3.md)
 
 - [**Resources**](Resources.md)
   - [**Posters**](WorkshopResources/Posters/PosterList.md)
