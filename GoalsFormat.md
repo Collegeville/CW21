@@ -14,7 +14,7 @@ Artifacts from the workshop will include submitted white papers, recorded presen
 
 ### Format
 
-Due to the pandemic, Collegeville 2021 will be an entirely virtual event.  As the diagram above shows, we are soliciting white papers, posters and teatime themes contributions from the community.  From these contributions we will build the detailed program.  Details for submitting are on the [Contribute](Contribute.md) page.
+Due to the pandemic, Collegeville 2021 will be an entirely virtual event.  We are soliciting white papers, posters and teatime themes contributions from the community.  From these contributions we will build the detailed program.  Details for submitting are on the [Contribute](Contribute.md) page.
 
 
 #### [Back to Main Page](index.md)
