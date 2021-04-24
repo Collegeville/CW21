@@ -4,7 +4,7 @@ Any member of the computational science and engineering community who has an int
 
 | Contribution| Submission Date | Description                                |
 |-------------|-----------------|--------------------------------------------|
-| White paper | June 25 | A brief document articulating impediments, challenges, opportunities or potential solutions to teams for scientific software. |
+| White paper | June 21 | A brief document articulating impediments, challenges, opportunities or potential solutions to teams for scientific software. |
 | Teatime theme | July 9 |A topic related to software teams for open discussion during teatime. If your teatime theme is accepted, you would facilitate a small group discussion on the theme during the July 20 – 22 workshop. |
 | Poster      |July 9  |A PDF or interactive webpage that will be the focus of small group discussion during teatime. If your poster is accepted, you would facilitate a small group discussion during the July 20 – 22 workshop.   |
 | Recorded presentation | July 9 | We will record short presentations on content selected from some of the submitted white papers. If your white paper content would make a good presentation for the workshop, we will contact you to inquire if you are interested in this opportunity. Recorded presentations will be available to attendees before the workshop. |
@@ -16,7 +16,7 @@ Panelist |  July 20 - 22 | During the workshop dates of July 20 – 22, we will 
 - Please limit length to 2 - 4 pages standard text (references are not included in page count).
 - Your text can address impediments, challenges, opportunities, research directions or potential solutions, or combinations of these aspects.
 - Workshop presentations and panelists will in part be drawn from white paper submissions.
-- To have your white paper considered for presentation, please submit it no later than ~~June 25, 2021~~.
+- To have your white paper considered for presentation, please submit it no later than **June 21, 2021**.
 - How to submit your white paper:
   - Option 1: Submit a pull request. Instructions and current white papers are on **[this page.](https://collegeville.github.io/CW21/WorkshopResources/WhitePapers/WhitePaperList.html)**
   - Option 2: Submit your white paper in PDF form as an email attachment to Mike Heroux **<maherou@sandia.gov>**.
