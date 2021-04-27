@@ -9,6 +9,10 @@ The Collegeville Workshop Series on Scientific Software is intended to bring tog
 
 The first workshop in 2019 focused on software sustainability.  The 2020 workshop focused on developer productivity.  Collegeville 2021 will focus on software teams.
 
+### Resources from Collegeville 2020
+
+Recordings and other artifacts from last year's workshop are available at the [Collegeville 2020 website](https://collegeville.github.io/CW20/WorkshopResources/Recordings/RecordingList.html)
+
 ### Contribute to Collegeville 2021
 
 Any member of the computational science and engineering community who has an interest in improving developer productivity for scientific software is encouraged to submit content to build the program of Collegeville 2021: https://collegeville.github.io/CW21/Contribute.  Questions can be sent to Mike Heroux <mheroux@csbsju.edu>.
