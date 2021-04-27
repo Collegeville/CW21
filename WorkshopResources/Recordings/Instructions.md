@@ -1,4 +1,4 @@
-# 2020 Collegeville Workshop on Sustainable Scientific Software Recordings Instructions
+# 2021 Collegeville Workshop on Sustainable Scientific Software Recordings Instructions
 
 ### General Guidance
 We welcome your contributed recording to the workshop.  Here are a few general guidelines:

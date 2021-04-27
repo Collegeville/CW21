@@ -5,7 +5,7 @@
 
 | **Time (US CDT)**| **July 20** |
 |---|---|
-| 9:45 am  | **Opening Remarks** <br> [**(Add to calendar)**](CW20-OpeningRemarks.ics) |
+| 9:45 am  | **Opening Remarks** <br> [**(Add to calendar)**](CW21-OpeningRemarks.ics) |
 | 10:00 am | **Panel 1: Software Teams Definitions & Challenges** <br> **Panelists:** <br> [**(Add to calendar)**](CW21-Panel-1-Definitions-Challenges.ics) |
 | 11:30 am | **Break & Slack Discussions** |
 | 12:30 pm | **Discussion 1: Software Teams Definitions & Challenges** <br> Breakout rooms will be assigned randomly using Zoom <br> [**(Add to calendar)**](CW21-Discussion-1-Definitions-Challenges.ics) |
