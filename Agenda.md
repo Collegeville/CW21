@@ -7,8 +7,8 @@
 
 See [this page](WorkshopResources/WatchParty/WatchPartyList.md) for the dates and times of pre-workshop watch parties, or set up one of your own!  
 
-| **Time (US CDT)**| **July 20** <br> [**Get Details**](Agenda-Day-1.md) | **July 21** <br> [**Get Details**](Agenda-Day-2.md) | **July 22** <br> [**Get Details**](Agenda-Day-3.md) |
-|---|---|---|---|
+| **Time (US CDT)**| **July 20** <br> [**Get Details**](Agenda-Day-1.md) | **July 21** <br> [**Get Details**](Agenda-Day-2.md) | **July 22** <br> [**Get Details**](Agenda-Day-3.md) | **All Days** <br> **Coffee Break Room** <br> [**Open All Day**]()
+|---|---|---|---|---|
 | 9:45 am  | Opening Remarks <br> [**(Add to calendar)**](CW21-OpeningRemarks.ics) | | |
 | 10:00 am | Panel 1: Software Teams Definitions & Challenges <br> [**(Add to calendar)**](CW21-Panel-1-Definitions-Challenges.ics) | Panel 2: Technical Approaches to Improved Software Teams <br> [**(Add to calendar)**](CW21-Panel-2-Technical-Approaches.ics) | Panel 3: Cultural Approaches to Improved Software Teams <br> [**(Add to calendar)**](CW21-Panel-3-Cultural-Approaches.ics) |
 | 11:30 am | Break & <br> Slack Discussions | Break & <br> Slack Discussions | Break & <br> Slack Discussions |
