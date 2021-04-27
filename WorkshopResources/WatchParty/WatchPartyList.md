@@ -4,7 +4,7 @@ In order to provide opportunities for attendees to get a head start on workshop 
 
 If you are interested in organizing and hosting a watch party, please add your information in the following table by submitting a pull request.
 
-To edit this page, make a pull request for the [page source on GitHub](https://github.com/Collegeville/CW21/blob/master/WatchParty/WatchPartyList.md)
+To edit this page, make a pull request for the [page source on GitHub](https://github.com/Collegeville/CW21/blob/master/WorkshopResourcesWatchParty/WatchPartyList.md)
 
 | **Time (US CDT)**| **Date** | **Host(s)** | **Video title(s)** | **Link (Zoom or other)** |
 |---|---|---|---|---|
