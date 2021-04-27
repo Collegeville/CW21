@@ -3,6 +3,10 @@
 
 [**Zoom Connection Information**]()
 
+### Pre-workshop watch parties
+
+See [this page](WorkshopResources/WatchParty/WatchPartyList.md) for the dates and times of pre-workshop watch parties, or set up one of your own!  
+
 | **Time (US CDT)**| **July 20** <br> [**Get Details**](Agenda-Day-1.md) | **July 21** <br> [**Get Details**](Agenda-Day-2.md) | **July 22** <br> [**Get Details**](Agenda-Day-3.md) |
 |---|---|---|---|
 | 9:45 am  | Opening Remarks <br> [**(Add to calendar)**](CW21-OpeningRemarks.ics) | | |
