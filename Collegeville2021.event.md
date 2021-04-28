@@ -1,7 +1,8 @@
 # 2021 Collegeville Workshop on Scientific Software: Software Teams
 - Date: July 20, 2021 - July 22, 2021
 - Location: Virtual
-- Event Website: https://collegeville.github.io/CW21/
+- Event Website: [https://collegeville.github.io/CW21/](https://collegeville.github.io/CW21/)
+- Hashtag: [#collegeville21](https://twitter.com/search?q=%23collegeville21)
 
 ### The College Workshop Series on Scientific Software
 
