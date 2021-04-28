@@ -1,6 +1,12 @@
 ## Contribute to Collegeville 2021
 
-Any member of the computational science and engineering community who has an interest in improving scientific software teams is encouraged to submit content to build the program of Collegeville 2021.  We welcome the following contributions:
+Any member of the computational science and engineering community who has an interest in improving scientific software teams is encouraged to submit content to build the program of Collegeville 2021.  
+
+We are particularly interested in contributions that draw from software team experiences.  Often the structures and dynamics of scientific software teams are not clearly documented.  We strongly encourage participants to reflect on how their teams are organized and operate and submit content for the workshop in any of the formats listed below.
+
+We also enthusiastically welcome contributions on conceptual models that can help attendees better understand how teams work and can be improved.  
+
+We welcome the following contributions:
 
 | Contribution| Submission Date | Description                                |
 |-------------|-----------------|--------------------------------------------|
