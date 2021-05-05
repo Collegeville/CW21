@@ -22,7 +22,7 @@ We welcome the following contributions:
 
 | Contribution| Submission Date | Description                                |
 |-------------|-----------------|--------------------------------------------|
-| White paper | June 18 | A brief document articulating impediments, challenges, opportunities or potential solutions to teams for scientific software. |
+| White paper | June 18 | A brief document articulating impediments, challenges, opportunities or potential solutions to teams for scientific software. **Note:** While details are still being worked out, we intend to invite select authors of white papers to expand their paper as a peer-reviewed article for a special issue of [_Computing in Science and Engineering (CiSE)_](https://www.computer.org/csdl/magazine/cs).  Details available soon. |
 | Recorded presentation | June 21 - July 9 | Selected from the submitted white papers, we will solicit speakers to record a brief presentation on their white paper content.  Recorded presentations will be available to attendees before the workshop. |
 | Teatime theme | July 1 |A topic related to software teams for open discussion during teatime. If your teatime theme is accepted, you would facilitate a small group discussion on the theme during the July 20 – 22 workshop. |
 | Poster      |July 1  |A PDF or interactive webpage that will be the focus of small group discussion during teatime. If your poster is accepted, you would facilitate a small group discussion during the July 20 – 22 workshop.   |
