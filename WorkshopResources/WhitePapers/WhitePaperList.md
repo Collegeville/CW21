@@ -7,5 +7,6 @@ To edit this page, make a pull request for the [page source on GitHub](https://g
 ## List of papers:
 
 1. [Lastname, Firstname: Title](file.pdf) - [Video](YouTubeLink)
+Lofstead, Jay: Effectively Integrating Interns Into ResearchTeams (lofstead.pdf)
 
 #### [Back to Main Page](../../index.md)
