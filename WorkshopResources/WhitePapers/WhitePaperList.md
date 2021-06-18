@@ -8,5 +8,6 @@ To edit this page, make a pull request for the [page source on GitHub](https://g
 
 1. [Lastname, Firstname: Title](file.pdf) - [Video](YouTubeLink)
 Lofstead, Jay: Effectively Integrating Interns Into ResearchTeams (lofstead.pdf)
+2. [Cohoon, J., Du, C., Howison, J.: The Challenges of Transitioning to Peer Production](cohoon_TransitionsWP.pdf)
 
 #### [Back to Main Page](../../index.md)
