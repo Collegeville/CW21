@@ -2,7 +2,7 @@
 
 Any member of the computational science and engineering community who has an interest in improving scientific software teams is encouraged to submit content to build the program of Collegeville 2021.  
 
-While we welcome any relevant contribution to the software teams theme, 
+While we welcome any relevant contribution to the software teams theme,
 
 **_We are particularly interested in contributions that draw from software team experiences, no matter how formal or informal your team processes are.  Often the structures and dynamics of scientific software teams are not clearly documented.  We also are interested in teams that address the software ecosystem, in addition to those that address specific software. We strongly encourage participants to reflect on how their teams are organized and operate, and submit content for the workshop in any of the formats listed below.  By sharing your team's experience, you will help build community awareness about how we can understand and improve scientific software teams._**
 
@@ -16,7 +16,7 @@ We welcome the following contributions:
 | Recorded presentation | June 21 - July 9 | We will accept short recorded presentations on content selected from some of the submitted white papers. If your white paper content would make a good presentation for the workshop, we will contact you to inquire if you are interested in this opportunity. Recorded presentations will be available to attendees before the workshop. |
 | Teatime theme | July 1 |A topic related to software teams for open discussion during teatime. If your teatime theme is accepted, you would facilitate a small group discussion on the theme during the July 20 – 22 workshop. |
 | Poster      |July 1  |A PDF or interactive webpage that will be the focus of small group discussion during teatime. If your poster is accepted, you would facilitate a small group discussion during the July 20 – 22 workshop.   |
-| Watch party | July 12 - 19 | During the week prior to the workshop, participants can host a watch party for one or more of the workshop video recordings. See [this page](WorkshopResources/WatchParty/WatchPartyList.md) for details. |
+| Watch party | July 12 - 19 | During the week prior to the workshop, participants can host a watch party for one or more of the workshop video recordings. Given the increasing number of recorded and available talks online, these watch parties can become regular occasions for sharing recent research and ideas, much like a reading group. More information on the pre-workshop watch parties and their post-workshop sustenance is available on [this page](WorkshopResources/WatchParty/WatchPartyList.md). |
 Panelist |  July 20 - 22 | During the workshop dates of July 20 – 22, we will host a live plenary panel discussion with Q&A as the first event each day.  We are limited to just a few panelists each day and will invite people based on their white paper submission and the diversity of viewpoint for the theme of the day.  We will contact panelist candidates to inquire if you are interested in this opportunity. The panel sessions will be recorded and available after the workshop. |
 
 **All submission will be reviewed by the organizing committee for possible acceptance to the workshop program**
