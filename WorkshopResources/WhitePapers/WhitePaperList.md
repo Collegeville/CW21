@@ -14,7 +14,7 @@ To edit this page, make a pull request for the [page source on GitHub](https://g
 1. [Lofstead, Jay: Effectively Integrating Interns Into ResearchTeams](integrating-interns-into-research-teams.pdf)
 1. [Malviya-Thakur, Addi, Watson, G. R.: Dynamics of Scientific Software Teams](dynamics-of-scientific-software-teams.pdf)
 1. [Martinez-Ortiz, Carlos, Bahkshi, R., Dzigan, Y., Renaud, N., Diblen, F., Weel, B., van Meersbergen, M., Drost, N.: Structured and Unstructured Teams for Research Software Development at the Netherlands eScience Center](structured-unstructured-teams.pdf)
-1. [Moxley, Jacob and Milewicz, R.: Encouraging pride in the tools we use](data-driven-cross-team-collaboration.pdf)
+1. [Moxley, Jacob and Milewicz, R.: Encouraging pride in the tools we use](encouraging-pride-in-the-tools-we-use.pdf)
 1. [Raybourn, Elaine M.: It's Not the Whiteboard We Missed, It's How It Made Us Feel](its-not-the-whiteboard-we-missed.pdf)
 1. [Wunrow, Han Yong, Milewicz, R., Raybourn, E. M.: Towards a Data-Driven Understanding of Cross-team Collaboration](data-driven-cross-team-collaboration.pdf)
 1. [Yang, Ulrike M., Balos, C., Luszczek, P., Osborn, S., Willenbring, J.: Challenges of and Opportunities for a Large Diverse Software Team](challenges-of-and-opportunities-for-a-large-diverse-software-team.pdf)
