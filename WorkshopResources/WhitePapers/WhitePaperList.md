@@ -10,7 +10,7 @@ To edit this page, make a pull request for the [page source on GitHub](https://g
 1. [Adamson, Ryan, Malviya-Thakur, A.: Perspectives on Operationalizing Scientific Software](perspectives-on-operationalizing-scientific-software.pdf)
 1. [Chue Hong, Neil P.; Bluteau, Matthew; Lamprecht, Anna-Lena; and Peng, Zedong: A Framework for Understanding Research Software Sustainability](framework-for-understanding-research-software-sustainability.pdf) - DOI: [10.5281/zenodo.4988277](https://doi.org/10.5281/zenodo.4988277)
 1. [Cohoon, Johanna, Du, Caifan, Howison, James: The Challenges of Transitioning to Peer Production](challenges-of-transitioning-to-peer-production.pdf)
-1. [Heroux, Michael A.: A Light-weight Model for Small Scientific Software Teams](model-for-small-scientific-software-teams.pdf) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5034737.svg)](https://doi.org/10.5281/zenodo.5034737)
+1. [Heroux, Michael A.: A Light-weight Model for Small Scientific Software Teams](model-for-small-scientific-software-teams.pdf) - DOI: [10.5281/zenodo.5034737](https://doi.org/10.5281/zenodo.5034737)
 1. [Katz, Daniel S.; Barker,  Michelle; Chue Hong, Neil P.; Castro, Leyla Jael; Martinez, Paula Andrea: The FAIR4RS team: Working together to make research software FAIR](fair4rs-team.pdf)
 1. [Lofstead, Jay: Effectively Integrating Interns Into ResearchTeams](integrating-interns-into-research-teams.pdf)
 1. [Malviya-Thakur, Addi, Watson, G. R.: Dynamics of Scientific Software Teams](dynamics-of-scientific-software-teams.pdf)
