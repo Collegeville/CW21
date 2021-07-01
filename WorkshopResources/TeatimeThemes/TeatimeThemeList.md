@@ -5,6 +5,6 @@ To edit this page, make a pull request for the [page source on GitHub](https://g
 Add your teatime theme title and abstract to the list. Add the PDF of your abstract to this same folder as part of your pull request.
 
 ## List of teatime themes:
-- [Lastname, Firstname: Title](file.pdf)
+- [Chue Hong, Neil & Cowan, Ben: Software Team Anti-Patterns, or: A time for us to complain about our jobs and still be completely professional.](anti-patterns.md)
 
 #### [Back to Main Page](../../index.md)
