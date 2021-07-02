@@ -6,5 +6,6 @@ Add your teatime theme title and abstract to the list. Add the PDF of your abstr
 
 ## List of teatime themes:
 - [Chue Hong, Neil & Cowan, Ben: Software Team Anti-Patterns, or: A time for us to complain about our jobs and still be completely professional.](anti-patterns.md)
+- [Ferenbaugh, C., Carver, J., Cosden, I., Gesing, S., and Katz, D.: What makes RSEs unique members of a software team?](ferenbaugh-et-al-rses.md)
 
 #### [Back to Main Page](../../index.md)
