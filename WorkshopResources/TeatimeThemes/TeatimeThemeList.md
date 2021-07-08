@@ -10,7 +10,7 @@ Add your teatime theme title and abstract to the list. Add the PDF of your abstr
 - [Fadel, Nur: Applied agile: adapting frameworks to your team's need](fadel-cscs.md)
 - [Ferenbaugh, C., Carver, J., Cosden, I., Gesing, S., and Katz, D.: What makes RSEs unique members of a software team?](ferenbaugh-et-al-rses.md)
 - [Willenbring, Jim: A Team of One](willenbring-1dev.md)
-- [Willenbring, Jim and Milewicz, Reed: Different types of teams and associated benfits and challenges](willenbring-team-types.md)
+- [Willenbring, Jim and Milewicz, Reed: Different types of teams and associated benefits and challenges](willenbring-team-types.md)
 
 #### [Back to Main Page](../../index.md)
 
