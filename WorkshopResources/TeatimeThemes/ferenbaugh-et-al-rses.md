@@ -1,6 +1,6 @@
-#What makes RSEs unique members of a software team?
+# What makes RSEs unique members of a software team?
 
-*Collegeville 2021 Teatime Theme*
+*Teatime Theme - Collegeville 2021*
 
 *Charles Ferenbaugh, Los Alamos National Laboratory*
 *Jeffrey C. Carver, University of Alabama*

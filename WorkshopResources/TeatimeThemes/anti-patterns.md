@@ -1,8 +1,13 @@
-# Software Team Anti-Patterns
-## or: A time for us to complain about our jobs and still be completely professional
+# When one member of the team wants more process than everyone else
 
-Following on from their bestiary of scary software projects, 
-join Ben Cowan and Neil Chue Hong to talk about a new set of horrific monsters, 
-including the cookie-licker, headless chicken, silverback, mob rule and more! 
+*Teatime theme - Collegeville 2021*
 
-Bring your own horror stories (and cookies) and share in this safe space!
+*Anshu Dubey, Argonne National Lab*
+
+Our very small team has encountered a situation where one member of the team would like
+way more rigor in the process that the rest of the team would even like to consider. That in turn
+brings in the thorny question of how much is too much and how little is too little. So far we
+have navigated this space largely on my "gut feeling", but that is arbitrary, and I am not sure
+that I have made the right choice. I would like to discuss with others who have faced similar
+situations, especially where they are in the decision making seat and feel less than convinced
+about their decisions.
