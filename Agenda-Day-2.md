@@ -9,6 +9,6 @@
 | 11:30 am | **Break & Slack Discussions** |
 | 12:30 pm | **Discussion 2: Technical Approaches to Improved Software Teams** <br> Breakout rooms will be assigned randomly using Zoom |
 | 2:00 pm | **Break & Slack Discussions** |
-| 3:00 pm | **Teatimes 2: Technical Approaches to Improved Software Teams** |
+| 3:00 pm | [**Teatimes 2**](WorkshopResources/TeatimeThemes/TeatimeThemeList.md) |
 
 #### [Back to Main Agenda](Agenda.md)
