@@ -11,6 +11,7 @@ Add your teatime theme title and abstract to the list. Add the PDF of your abstr
 | [Dubey, Anshu: When a member of the team wants more process than others](dubey-more-process.md) | July 22 |
 | [Fadel, Nur: Applied agile: adapting frameworks to your team's need](fadel-cscs.md) | July 21 |
 | [Ferenbaugh, C., Carver, J., Cosden, I., Gesing, S., and Katz, D.: What makes RSEs unique members of a software team?](ferenbaugh-et-al-rses.md) | July 22 |
+| [Lofstead, Jay: Integrating Interns into Research Teams](lofstead-interns.md) | July 21 |
 | [Raybourn, Elaine, Mundt, Mirand and Milewicz, Reed: Incentiving Software Quality Practices](raybourn-et-al-incentivizing.md) | July 21 |
 | [Trumbo, Derek, and Milewicz, Reed: Toward a Culture of Continuous Learning and Improvement within RSE Teams](milewicz-trumbo-learning.md) | July 22 |
 | [Willenbring, Jim: A Team of One](willenbring-1dev.md) | July 20 |
