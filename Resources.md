@@ -1,5 +1,6 @@
 ## Workshop Resources
 
+- [Collegeville 2021 Workshop YouTube Playlist](https://youtube.com/playlist?list=PLSsqt6vUDjJ1aXNKaInUI3-p2KIKDGicA)
 - [Whitepapers](WorkshopResources/WhitePapers/WhitePaperList.md)
 - [Recordings](WorkshopResources/Recordings/RecordingList.md)
 - [Posters](WorkshopResources/Posters/PosterList.md)
