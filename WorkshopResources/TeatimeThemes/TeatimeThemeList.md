@@ -14,7 +14,7 @@ Add your teatime theme title and abstract to the list. Add the PDF of your abstr
 | [Gupta, Rinku: The role of culture and diverse cultural backgrounds in producing effective high-functioning teams](gupta-high-function-culture.md) | July 22 |
 | [Lofstead, Jay: Integrating Interns into Research Teams](lofstead-interns.md) | July 20 |
 | [Raybourn, Elaine and Mundt, Mirand: Incentiving Software Quality Practices](raybourn-et-al-incentivizing.md) | July 21 |
-| [Trumbo, Derek, and Milewicz, Reed: Toward a Culture of Continuous Learning and Improvement within RSE Teams](milewicz-trumbo-learning.md) | July 22 |
+| [Trumbo, Derek, and Milewicz, Reed: Toward a Culture of Continuous Learning and Improvement within RSE Teams](milewicz-trumbo-learning.md) | July 21 |
 | [Willenbring, Jim: A Team of One](willenbring-1dev.md) | July 20 |
 | [Willenbring, Jim and Milewicz, Reed: Different types of teams and associated benefits and challenges](willenbring-team-types.md) | July 21 |
 
