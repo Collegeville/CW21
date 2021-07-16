@@ -1,9 +1,13 @@
-# Different Types of Teams
+# When one member of the team wants more process than everyone else
 
 *Teatime theme - Collegeville 2021*
 
-*James Willenbring & Reed Milewicz - Sandia National Laboratories*
+*Anshu Dubey, Argonne National Lab*
 
-When software developers work together on a software product, the existence of a team is obvious. The benefits of working together effectively and the pains of not doing so are also obvious. Sometimes opportunities for teaming are less apparent. Examples of these situations include team of teams, teams within an organization, teams across organizations, and community teaming. We will discuss these alternative team formats, along with some of the benefits and challenges associated with each.
-
-We are interested in learning from attendees how they have successfully built integrated teams of various kinds, as well as experiences where the challenges and costs of teaming have outweighed the benefits.
+Our very small team has encountered a situation where one member of the team would like
+way more rigor in the process that the rest of the team would even like to consider. That in turn
+brings in the thorny question of how much is too much and how little is too little. So far we
+have navigated this space largely on my "gut feeling", but that is arbitrary, and I am not sure
+that I have made the right choice. I would like to discuss with others who have faced similar
+situations, especially where they are in the decision making seat and feel less than convinced
+about their decisions.
