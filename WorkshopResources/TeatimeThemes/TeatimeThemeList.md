@@ -7,6 +7,7 @@ Add your teatime theme title and abstract to the list. Add the PDF of your abstr
 
 |**Teatime Theme** | Date (3 - 4:30 pm CDT) |
 |---|---|
+| [Brown, Jed: Forming team strategy without central control](brown-distributed-strategy.md) | July 22 |
 | [Chue Hong, Neil & Cowan, Ben: Software Team Anti-Patterns, or: A time for us to complain about our jobs and still be completely professional.](anti-patterns.md) | July 20 |
 | [Dubey, Anshu: When a member of the team wants more process than others](dubey-more-process.md) | July 22 |
 | [Fadel, Nur: Applied agile: adapting frameworks to your team's need](fadel-cscs.md) | July 21 |
