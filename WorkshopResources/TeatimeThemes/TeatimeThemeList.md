@@ -10,7 +10,6 @@ Add your teatime theme title and abstract to the list. Add the PDF of your abstr
 | [Chue Hong, Neil & Cowan, Ben: Software Team Anti-Patterns, or: A time for us to complain about our jobs and still be completely professional.](anti-patterns.md) | July 20 |
 | [Lofstead, Jay: Integrating Interns into Research Teams](lofstead-interns.md) | July 20 |
 | [Willenbring, Jim: A Team of One](willenbring-1dev.md) | July 20 |
-| [Heroux, Mike: Increasing understanding of scientific software teams](focus-on-teams.md)| July 20 |
 | [Random challenges themes: Bring your own software team challenges theme](random-challenges.md) | July 20 |
 | [Fadel, Nur: Applied agile: adapting frameworks to your team's need](fadel-cscs.md) | July 21 |
 | [Raybourn, Elaine and Mundt, Miranda: Incentiving Software Quality Practices](raybourn-et-al-incentivizing.md) | July 21 |
