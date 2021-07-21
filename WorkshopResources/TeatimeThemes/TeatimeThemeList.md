@@ -12,7 +12,7 @@ Add your teatime theme title and abstract to the list. Add the PDF of your abstr
 | [Willenbring, Jim: A Team of One](willenbring-1dev.md) | July 20 |
 | [Random challenges themes: Bring your own software team challenges theme](random-challenges.md) | July 20 |
 | [Fadel, Nur: Applied agile: adapting frameworks to your team's need](fadel-cscs.md) | July 21 |
-| [Raybourn, Elaine and Mundt, Miranda: Incentiving Software Quality Practices](raybourn-et-al-incentivizing.md) | July 21 |
+| [Raybourn, Elaine and Mundt, Miranda: Incentivizing Software Quality Practices](raybourn-et-al-incentivizing.md) | July 21 |
 | [Trumbo, Derek, and Milewicz, Reed: Toward a Culture of Continuous Learning and Improvement within RSE Teams](milewicz-trumbo-learning.md) | July 21 |
 | [Willenbring, Jim and Milewicz, Reed: Different types of teams and associated benefits and challenges](willenbring-team-types.md) | July 21 |
 | [Random technical themes: Bring your own software team technical theme](random-technical.md) | July 21 |
