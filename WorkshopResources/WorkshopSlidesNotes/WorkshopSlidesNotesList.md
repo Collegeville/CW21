@@ -3,7 +3,7 @@
 ## Panel Slides
 
 - Day 1 Panel: Opening Remarks, Software Teams Definitions and Challenges [Slides](CW21-OpeningRemarksPanel1.pdf)
-- Day 2 Panel: Technical Approaches to Improving Software Teams [Slides](CW21-Panel2.pdf) | [Zoom Chat](Panel2ZoomChat.txt)
+- Day 2 Panel: Technical Approaches to Improving Software Teams [Slides](CW21-Panel2.pdf) -- [Zoom Chat](Panel2ZoomChat.txt)
 - Day 3 Panel: Cultural Approaches to Improving Software Teams [Slides](CW21-Panel3.pdf)
 - Day 3: Closing Remarks [Slides](CW21-ClosingRemarks.pdf)
 
