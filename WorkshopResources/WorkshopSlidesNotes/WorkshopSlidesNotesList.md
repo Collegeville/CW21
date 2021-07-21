@@ -17,6 +17,16 @@
 
 ### Day 2
 
+- [Day 2 Group 1 Discussion](Day2Group1Notes.pdf)
+- [Day 2 Group 2 Discussion](Day2Group2Notes.pdf)
+- [Day 2 Group 3 Discussion](Day2Group3Notes.pdf)
+- [Day 2 Group 4 Discussion](Day2Group4Notes.pdf)
+
 ### Day 3
+
+- [Day 3 Group 1 Discussion](Day3Group1Notes.pdf)
+- [Day 3 Group 2 Discussion](Day3Group2Notes.pdf)
+- [Day 3 Group 3 Discussion](Day3Group3Notes.pdf)
+- [Day 3 Group 4 Discussion](Day3Group4Notes.pdf)
 
 #### [Back to Main Page](../../index.md)
