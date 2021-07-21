@@ -1,0 +1,70 @@
+09:55:31 From Mike Heroux to Lois McInnes(Direct Message):
+	I have made you a co-host for today, should give you abilities to mute and manage the session if needed.
+10:05:59 From Mike Heroux to Lois McInnes(Direct Message):
+	Keith is present
+10:25:40 From Mike Heroux to Everyone:
+	It appears that the importance of processes and tools resonates with scientists in a qualitatively better way than a decade ago.  RSEs, project coordinators, increased use of high-quality content management tools and processes are major examples.  Question: Is there still “big picture” elements missing?  For example, I think RSEs are a big picture element.  Is there something similar still on the horizon?
+10:32:08 From Jacob Moxley to Everyone:
+	The pannel members have described several different iterative processes for development.  Learning from iteration is important, but can be difficult if the release schedule is too fast, and not enough learning occurs if feedback is too slow. Is there a sweet spot for how often to schedule releases?
+10:33:24 From Reed Milewicz to Everyone:
+	To Barry’s point,
+10:33:54 From Reed Milewicz to Everyone:
+	I think knowledge and knowledge management is one of the great frontiers for scientific software development. That’s a pain point as we scale up teams and projects.
+10:41:43 From Johanna (Hannah) Cohoon to Everyone:
+	Most of the tactics the panelists talked about to improve teamwork was about facilitating communication—how would more funding help with that? (beyond Reed’s point about being used to demonstrate the importance of that work)
+10:44:36 From Todd Munson to Everyone:
+	I wonder if there is a lack of “marketing” is a missing big picture element?  We want to work on the scientific software, but may not have the expertise on outreach / marketing.
+10:44:36 From Anshu Dubey to Everyone:
+	There is also the issue of where are you going to find people even if you get more resources.
+10:47:04 From Reed Milewicz to Everyone:
+	My thoughts (since I don’t want to monopolize the mic): (1) build better pipelines with universities for RSEs, (2) secure more funding for RSEs, and (3) federally legalize marijuana (especially this, you wouldn’t believe how many qualified developers are turned away by this)
+10:47:54 From Jacob Moxley to Everyone:
+	Audio is being uncooperative sorry. Do you mind reading it?
+10:49:04 From Reed Milewicz to Everyone:
+	Don’t worry, Jacob, I’ll bring it up next for ya
+10:49:16 From Jacob Moxley to Everyone:
+	Thanks!
+10:51:34 From Jim Pivarski to Everyone:
+	"Triage"?
+10:55:24 From Johanna (Hannah) Cohoon to Everyone:
+	thanks!
+10:58:59 From Reed Milewicz to Everyone:
+	Personally I think you could have a faster release cadence for beta features if you used things like feature flags to dynamically control what works in the deployed code. That’s an emerging idea in industry, one that I think could be applied to scientific codes.
+10:59:16 From Reed Milewicz to Everyone:
+	But I don’t have evidence to support that claim, so take that with a grain of salt, haha.
+11:02:39 From Jed Brown to Everyone:
+	^ That works well for Rust, where it's easy to deploy to "nightly" and anyone working with a stable release *can't* use the feature. I found it irritating at first, but the toolchain/package management is so good that it isn't really a headache to use nightly, though everyone who uses it understands the contract. Better toolchain/package management would open a lot of release management opportunities in HPC.
+11:03:39 From Reed Milewicz to Everyone:
+	Precisely! This feels like one of those situations where this team problem can be addressed through more elegant technological solutions.
+11:03:55 From Reed Milewicz to Everyone:
+	It’s a toolchain problem. We need toolchains that are better suited to scientific exploration and feature development.
+11:04:46 From Jacob Moxley to Everyone:
+	Interesting that regular schedules can push people to try and hit deadlines, but not a total pressure cooker. I'm sure that takes some managment finesse
+11:09:27 From Lois McInnes to Everyone:
+	Additional questions/topics are welcome … What are your burning topics/questions related to technical issues for software teams?
+11:09:45 From Mike Heroux to Everyone:
+	When we have the ear of our sponsors (at the labs, in industry or universities), what is the elevator speech we should give?  What changes in funding focus would have the biggest impact on scientific software efforts?
+11:09:50 From Barry Smith to Everyone:
+	ANL employees are not allowed to have marijuana in their blood stream. They would get escorted off-site if a test was positive. Fortunately testing is not done, though the lab reserves the right to do it.
+11:11:11 From David Moulton to Everyone:
+	Can we pull the thread on the details in Mike’s original comment.  I agree we are making great progress on roles like project coordinator and RSE, but this is not uniform across the community.  For example, I would really like to be able to hire a project coordinator, and RSEs, but I don’t have full funding to support these positions.  How best would I advertise, recruit and support such roles.
+11:13:08 From Reed Milewicz to Everyone:
+	Right, same at Sandia, Barry. But I’ve noticed that this really does affect the career decisions of software development folks, even those who don’t do it. It implies a kind of invasion into personal life that you don’t see at Google, Facebook, or Microsoft. This comes up over and over when I’m advertising the national labs to software engineerings in industry.
+11:19:49 From Barry Smith to Everyone:
+	Mike - Dashboard for communication.
+11:21:55 From Rinku Gupta to Everyone:
+	Kanban boards should be given a serious consideration. It can be very effective
+11:22:39 From Reed Milewicz to Everyone:
+	^^^^
+11:23:32 From Jim Pivarski to Everyone:
+	That's the main difference between email and these tools: email is private, these tools are public and can be referenced by others in the future. When people send me questions by email, I ask them to copy the question and my response to a GitHub Discussion; they usually do it.
+11:24:25 From Todd Munson to Everyone:
+	To some extent, the IT system where people send email to a generic address and a ticket is automatically generated can be useful.
+11:24:27 From Jay Lofstead to Everyone:
+	To Reed's point, shouldn't there be more cross-tool integration? Have the ability to send email to the dashboard for updates and get email notifications of updates made to the dashboard?
+11:24:34 From Reed Milewicz to Everyone:
+	Ooh, I like!
+11:25:15 From Jay Lofstead to Everyone:
+	There are examples of this already with some systems. It just needs to be a universal feature all tools support
+11:25:42 From Dossay Oryspayev to Everyone:
+	https://www.atlassian.com/agile/manifesto
