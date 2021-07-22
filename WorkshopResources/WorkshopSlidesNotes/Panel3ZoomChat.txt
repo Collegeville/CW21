@@ -1,0 +1,54 @@
+09:46:37 From Daniel S. Katz to Everyone:
+	https://github.com/danielskatz/repro-fdtd1d/blob/master/script/Makefile
+09:52:57 From Reed Milewicz to Everyone:
+	Han Yong’s paper is a teaser for research that we have ongoing!
+09:53:03 From Reed Milewicz to Everyone:
+	So there’s one.
+10:11:25 From Daniel S. Katz to Everyone:
+	Q: If everyone on the team is responsible for standards, why is a standards tsar needed?
+10:15:56 From Neil Chue Hong to Everyone:
+	Q: Do particular approaches to improving the culture of the team depend on the size of the team, or the balance of junior to senior (or technical to management) roles?
+10:17:32 From Neil Chue Hong to Everyone:
+	(My question is to all of the panellists)
+10:18:03 From Johanna (Hannah) Cohoon to Everyone:
+	Nur, what are you seeing as you try to combine teams that makes you concerned that you won’t be able to keep your present way of working?
+10:19:07 From Todd Munson to Everyone:
+	Q:  Culture change is very difficult and never ending.  What levers do you use to establish a long-term culture change that does not revert back to the old one?
+10:20:57 From Todd Munson to Everyone:
+	Q:  Teams live within the context of their institutions.  For distributed teams across institutions, how do you reconcile the culture of institution with the culture of the team?
+10:21:26 From Mike Heroux to Everyone:
+	It seems that most teams understand the importance of being open, expressing challenges, failing fast and recovering.  What I have struggled with is sustaining changes.  What specific  approaches do you find useful to sustainably integrate culture changes?  Does it help to have a coach?  Does it help to have a regular discussion, say quarterly, where the team focuses on its progress in introducing culture change?
+10:23:53 From Neil Chue Hong to Everyone:
+	Q (for David): What proportion of their time should team leaders / managers spend on informal relationship building? 10%? 25%? 50%? 80?
+10:32:19 From David Moulton to Everyone:
+	Neil, this is a great question.  Would like to hear from others too.  I would say 10-25%, varies a bit on how much time their leadership role has allocated.  I think the key is not so much total time, but that it’s enough time to be genuine - they need to actively listen, remember the details, and be truly empathetic and engaged.
+10:32:21 From Mike Heroux to Everyone:
+	Q (primarily for Elaine): From your perspective as a social scientist, what can scientific software teams and members do to help you work with us more effectively and efficiently?
+10:43:19 From Johanna (Hannah) Cohoon to Everyone:
+	Q: Building on what Elaine said, cultural change can be said to require us to change our collective assumptions about how we should behave. If software teams are trying to bring about cultural change to ensure quality or sustainability, what assumptions are standing in the way?
+10:44:48 From Elaine Raybourn to Everyone:
+	@neil: universal approaches include developing trust, inclusive dialog, understanding.
+10:49:31 From Mike Heroux to Everyone:
+	Q (perhaps for Carina more than others):  You work with multiple teams.  Do you come back and visit a team with whom you have worked in the past, to assess how well they are doing with the changes they are making? If so, how does that approach work?  Or perhaps you have a different approach?
+10:50:51 From Neil Chue Hong to Everyone:
+	Thanks @Elaine
+10:51:07 From Jay Lofstead to Everyone:
+	Q: How much have you seen the human cultural origin affects the teams culture. My time at Siemens revealed that some of the team members, if they did not get their way with the project direction, would try to make the project fail even though they publicly agreed to what the proper path should be.
+10:52:38 From Mike Heroux to Everyone:
+	How have you had some success in getting your sponsors to support (via funding and advocacy) efforts to change culture?
+10:55:21 From Elaine Raybourn to Everyone:
+	@Nur: as the team grows or intersects with other teams, documentation becomes more important. It can also serve as an articulation of your culture’s norms, goals, and values.
+10:56:52 From Elaine Raybourn to Everyone:
+	Quick story: when developing tools to support large organizations and virtual teams, we discovered that we needed to implement “cultural signposts” in our virtual environment to aid with sharing cultural norms.
+10:57:32 From Rinku Gupta to Everyone:
+	Coming to cultural origins of team members and its impact on teams (team time session this afternoon):  What are we doing to improve cultural integration in teams? First graders are doing it - how much are  we? Is it important?
+10:59:41 From Benjamin Sims to Everyone:
+	What are the limits of culture, i.e. are there issues that people might try to handle through culture change where other approaches might be more appropriate?
+11:28:13 From Nur Fadel to Everyone:
+	Thanks!
+11:35:46 From Reed Milewicz to Everyone:
+	Great panel discussion!
+11:35:57 From Jacob Moxley to Everyone:
+	Thank you
+11:42:18 From Mike Heroux to Everyone:
+	Great talk: https://youtu.be/zwRdO9_GGhY
