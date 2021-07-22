@@ -20,7 +20,5 @@ Add your teatime theme title and abstract to the list. Add the PDF of your abstr
 | [Dubey, Anshu: When a member of the team wants more process than others](dubey-more-process.md) | July 22 |
 | [Ferenbaugh, C., Carver, J., Cosden, I., Gesing, S., and Katz, D.: What makes RSEs unique members of a software team?](ferenbaugh-et-al-rses.md) | July 22 |
 | [Gupta, Rinku: The role of culture and diverse cultural backgrounds in producing effective high-functioning teams](gupta-high-function-culture.md) | July 22 |
-| [Random cultural themes: Bring your own software team culture theme](random-cultural.md) | July 22 |
-
 
 #### [Back to Main Page](../../index.md) 
