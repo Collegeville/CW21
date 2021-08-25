@@ -1,0 +1,60 @@
+# Technical Approaches to Improved Software Teams: A Report from Day 2 of the 2021 Collegeville Workshop on Scientific Software
+
+
+### Contributors
+- Barry Smith, Argonne National Laboratory, GitHub: BarrySmith
+- Charles Ferenbaugh, Los Alamos National Laboratory, GitHub: cferenba
+- Sarah Osborn, Lawrence Livermore National Laboratory, GitHub: osborn9
+- Ulrike Meier Yang, Lawrence Livermore National Laboratory, GitHub: ulrikeyang
+- Sameer Shende, University of Oregon, GitHub: (sameershende???)
+- James Willenbring, Sandia National Laboratories, GitHub: jwillenbring 
+- Jacob Moxley, Sandia National Laboratories, GitHub: jmox0351 
+- Weslley Pereira, CU Denver, GitHub: weslleyspereira
+- Gerasimos Chourdakis, Technical University of Munich, GitHub: MakisH
+- Vadim Dyadechko, ExxonMobil, GitHub: vdyadechko
+- Jay Lofstead, Sandia National Laboratories, GitHub: gflofst
+- Johanna Cohoon, UT Austin, GitHub: jlcohoon
+- Robert Jacob, Argonne National Laboratory, GitHub:rljacob
+- Keith Beattie, Lawrence Berkeley National Laboratory, GitHub: ksbeattie
+- Reed Milewicz, Sandia National Laboratories, GitHub: rmmilewi
+- Todd Munson, Argonne National Laboratory, GitHub: tmunson
+- David Moulton, Los Alamos National Laboratory, GitHub: jd-moulton
+- Sam Yates, Swiss National Supercomputing Centre, GitHub: halfflat
+- Nur Fadel, Swiss National Supercomputing Centre, GitHub: nuraiman
+
+### Editors
+- Sarah Knepper, Intel Corporation, GitHub: sknepper
+- Lois Curfman McInnes, Argonne National Laboratory, GitHub: curfman
+- Michael A. Heroux, Sandia National Labs, GitHub: maherou
+
+## Background: The Collegeville Workshop Series
+What do multi-million dollar HPC projects have in common with a PI and their soon-to-be graduating doctoral student? What are the most pressing concerns of teams on the bleeding edge of scientific discovery? The Collegeville Workshop Series on Scientific Software brings together three communities of scientific software contributors: academia, industry, and laboratories. While there are existing exchanges between these communities, this workshop series is dedicated to improving the awareness of common needs, unique contributions, and career paths. Workshop contributions include short white papers and video interviews. The three-day live event includes panels, small-group discussions, and teatime sessions for themed conversations. This blog is the first of three that summarize the output from the small-group discussions in 2021. 
+
+## Collegeville 2021 Theme: Scientific Software Teams
+The Collegeville 2021 theme was software teams. Research software and scientific discovery is often advanced by collaborative teams rather than individuals. Yet, scientific software teams are often conducting their work with little knowledge of how to best take advantage of their collective experience. A new frontier for scientific software can be met with a better understanding of how software teams function and how teamwork can be improved. As we focus on improving software teams, we see value in augmenting the traditionally-valued expertise of computer scientists, mathematicians, and software engineers with the expertise of social, information, and cognitive scientists.
+
+## Workshop Small Group Discussions
+Each day of the workshop focused on different aspects of software teamwork. The first day of live discussion focused on software team experiences and challenges; the second day on technical strategies for improvement; the third day on cultural approaches for improvement. Small groups gathered live over video conference to discuss the topic of the day, each group creating a shared notes file. Because the workshop participants come from different work settings and have varying experiences with scientific software (see below) these discussions were a rare opportunity to identify shared concerns and recognize differences among scientific software teams. More than *representing* their shared knowledge, however, our intention is for these discussions to *impact* the diverse communities that participated in them.
+
+## Day 2: Technical Approaches to Improved Software Teams
+After talking about software teams on the first day, we spent the second day discussing technical approaches to improving teams, aiming to keep discussions about cultural approaches until the third day.
+
+### Key Technical Approaches
+In this article, we summarize the key technical approaches to improving scientific software teams identified during the small group discussions.  The detailed notes from these discussions are available on the [Collegeville 2021 Workshop website](https://collegeville.github.io/CW21).
+
+**Agree on and use collaborative software tools:** The adoption of modern software engineering tools and techniques will empower scientific software teams to do their best work. This includes tried-and-true solutions like version control tools and planning and organization tools (e.g. Kanban), and emerging technologies like test case prioritization and containerization. Challenges for using such tools include lack of buy-in from all team members, too many tools to keep track of, and getting everyone on the same page for following the process. As some of the individuals on the software team may not be software developers, browser-based software project management tools (like GitHub or Jira) are useful. Training should be provided as well as encouragement from management for their continual use. As it is disruptive to change tools, longer-term support for the chosen tools should be a consideration when deciding which tools to use; some teams value using open, non-commercial tools wherever possible whereas other teams may be required to use common tools across an organization.
+
+**Portable performance tools:** With the need for scientific software to run on a variety of hardware, including GPUs from possibly multiple vendors, having tools to analyze the performance of the software will greatly help. Tools such as [TAU](http://tau.uoregon.edu) that operate consistently on un-modified binaries across multiple GPU architectures can help assess the performance of numerical libraries, tools, and applications. Ideally, developers would want to be able to map from low-level profile information to the abstractions and high-level code of each package, which requires an API that is used by each library or framework to mark the code. This can then be used to visualize performance data. 
+
+**Routine, automated workflows and code quality checkers:** Workflow automation tools and techniques from code review to continuous integration to code coverage analysis and code quality checks should be regularly used to give team members confidence in changing code. Such tools can then be used to automate common workflows, such as preparing for a release or other common team workflows, through a series of scripts or Git workflows. The lower the barrier for developers to contribute high-quality code to a project the better, by allowing them to have higher confidence in their code changes even before requesting a code review. Additionally, the more tasks that can be automated (e.g., static analyzers, linters, formatters, adherence to coding standards) the more attention reviewers can pay to the substance of the code change. In the past, batch testing may be run once per night (or even less frequently!), which would make it harder to root cause the change that introduced a failure. With continuous integration (CI) running after potentially every commit, it can be much easier to identify the cause. However, it may be that a test fails on an obscure machine that the developer does not have ready access to for reproducing; to address this, CI should ideally provide “debug access” to all test systems. Having automated testing can also be beneficial to test against third-party libraries that are also changing.
+
+**Regularly-updated project documentation:** With many people working on a software team over the years, it is imperative to keep project documentation up-to-date and easily accessible. Such documentation may include information about processes related to the myriad tools used, notes from meetings, and internal code documents. This documentation must be clear, findable, and modifiable by members of the project. Since not everyone on the team may have a GitHub account, it is important to choose a tool that everyone on the team can access and easily update. Since documentation is only useful if it is kept current, a regular review cycle (annual or monthly, for example) is beneficial as is keeping track of when a document was last modified. These documents are also useful during the onboarding process, when introducing a new person to a project. Additionally, it is helpful for someone going through an offboarding process to transfer their knowledge by adding to the project documentation.
+
+**Communicate about communication:** Different communication tools abound, from email to GitHub discussions to Slack channels to Jira trackers and beyond. Communication is critical, but so is aligning on how to communicate. A lot of our problems are communication-related. It is vital to have both a shared communications infrastructure and a shared understanding of how to use that infrastructure. For instance, a team working on an open source project may decide that all discussions related to a bug/feature request/code change are to be done only in GitHub. If information is given in an email, then it is copied to GitHub for posterity. For internal discussions, a team may decide that Slack is appropriate for short questions/answers, but anything requiring a longer response should be done over email. Since many of the automation tools may be configured to send email notifications, it is necessary to have a smart notification system that adapts to user preference or at least can be easily filtered within the email client. 
+
+**Mechanisms for adopting new technologies:** As best practices continue to evolve along with tools needed to support them, it is important to have mechanisms in place for adopting new technologies, approaches, and paradigms. For example, supporting GPUs or other accelerators may require an enormous code restructuring. Or the choice of which Integrated Development Environments (IDEs) the team should use, which is often a personal preference but has an impact on team productivity, also falls into this category. Evidence-based best practices (EBP) should be used to guide decision-making in critical areas. EBP here means integrating current best evidence from research with practical experience and human values to improve decision-making related to software development and maintenance. While research cannot replace professional expertise, it is possible to leverage peer-reviewed evidence to inform how we do our work.
+
+**Technical and social aspects of software development go hand-in-hand:** Understanding those social aspects is critical to the adoption of new technologies. As a community, we should be working closer with social scientists to understand how we do our work and how we could do it better. A lot of the issues we have with scientific software teams can be recognized and addressed by including the soft sciences. Developing solutions people will actually use requires understanding them and their culture. Providing curated relevant literature to software teams can help with this.
+
+## Final Remarks from Day 2 Discussions
+Day 2 discussions at the Collegeville 2021 Workshop represent the input of a diverse and experienced group of scientific software developers and leaders, and their colleagues from the social and cognitive sciences.  We hope that the technical approaches summarized in this blog resonate with the reader and help the scientific software community when prioritizing efforts to improve the quality and impact of software in the pursuit of scientific discovery.

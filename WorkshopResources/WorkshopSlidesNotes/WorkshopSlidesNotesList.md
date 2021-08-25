@@ -28,4 +28,9 @@
 - [Day 3 Group 2 Discussion](Day3Group2Notes.pdf)
 - [Day 3 Group 3 Discussion](Day3Group3Notes.pdf)
 
+## List Discussion Draft Blogs (will appear on BSSw.io)
+- [Day 1 Blog](Day1-Blog.md)
+- [Day 2 Blog](Day2-Blog.md)
+- [Day 3 Blog](Day3-Blog.md)
+
 #### [Back to Main Page](../../index.md)
