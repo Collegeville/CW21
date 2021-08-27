@@ -6,7 +6,7 @@
 - Charles Ferenbaugh, Los Alamos National Laboratory, GitHub: cferenba
 - Sarah Osborn, Lawrence Livermore National Laboratory, GitHub: osborn9
 - Ulrike Meier Yang, Lawrence Livermore National Laboratory, GitHub: ulrikeyang
-- Sameer Shende, University of Oregon, GitHub: (sameershende???)
+- Sameer Shende, University of Oregon, GitHub: (sameershende)
 - James Willenbring, Sandia National Laboratories, GitHub: jwillenbring 
 - Jacob Moxley, Sandia National Laboratories, GitHub: jmox0351 
 - Weslley Pereira, CU Denver, GitHub: weslleyspereira
@@ -25,15 +25,15 @@
 ### Editors
 - Sarah Knepper, Intel Corporation, GitHub: sknepper
 - Lois Curfman McInnes, Argonne National Laboratory, GitHub: curfman
-- Michael A. Heroux, Sandia National Labs, GitHub: maherou
+- Michael A. Heroux, St. John's University, Sandia National Labs, GitHub: maherou
 
 ## Background: The Collegeville Workshop Series
-What do multi-million dollar HPC projects have in common with a PI and their soon-to-be graduating doctoral student? What are the most pressing concerns of teams on the bleeding edge of scientific discovery? The Collegeville Workshop Series on Scientific Software brings together three communities of scientific software contributors: academia, industry, and laboratories. While there are existing exchanges between these communities, this workshop series is dedicated to improving the awareness of common needs, unique contributions, and career paths. Workshop contributions include short white papers and video interviews. The three-day live event includes panels, small-group discussions, and teatime sessions for themed conversations. This blog is the first of three that summarize the output from the small-group discussions in 2021. 
+What do multi-million dollar HPC projects have in common with a PI and their soon-to-be graduating doctoral student? What are the most pressing concerns of teams on the bleeding edge of scientific discovery? The Collegeville Workshop Series on Scientific Software brings together three communities of scientific software contributors: academia, industry, and laboratories. While there are existing exchanges between these communities, this workshop series is dedicated to improving the awareness of common needs, unique contributions, and career paths. Workshop contributions include short white papers and video interviews. The three-day live event includes panels, small-group discussions, and teatime sessions for themed conversations. This blog is the second of three that summarize the output from the small-group discussions in 2021. 
 
-## Collegeville 2021 Theme: Scientific Software Teams
+### Collegeville 2021 Theme: Scientific Software Teams
 The Collegeville 2021 theme was software teams. Research software and scientific discovery is often advanced by collaborative teams rather than individuals. Yet, scientific software teams are often conducting their work with little knowledge of how to best take advantage of their collective experience. A new frontier for scientific software can be met with a better understanding of how software teams function and how teamwork can be improved. As we focus on improving software teams, we see value in augmenting the traditionally-valued expertise of computer scientists, mathematicians, and software engineers with the expertise of social, information, and cognitive scientists.
 
-## Workshop Small Group Discussions
+### Workshop Small Group Discussions
 Each day of the workshop focused on different aspects of software teamwork. The first day of live discussion focused on software team experiences and challenges; the second day on technical strategies for improvement; the third day on cultural approaches for improvement. Small groups gathered live over video conference to discuss the topic of the day, each group creating a shared notes file. Because the workshop participants come from different work settings and have varying experiences with scientific software (see below) these discussions were a rare opportunity to identify shared concerns and recognize differences among scientific software teams. More than *representing* their shared knowledge, however, our intention is for these discussions to *impact* the diverse communities that participated in them.
 
 ## Day 2: Technical Approaches to Improved Software Teams
