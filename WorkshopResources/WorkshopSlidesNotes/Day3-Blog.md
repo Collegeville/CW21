@@ -1,4 +1,4 @@
-# Software Team Experiences and Challenges: A Report from Day 3 of the 2021 Collegeville Workshop on Scientific Software[a][b]
+# Software Team Experiences and Challenges: A Report from Day 3 of the 2021 Collegeville Workshop on Scientific Software
 
 ### Contributors
 - Anshu Dubey, Argonne National Laboratory, GitHub: adubey64
