@@ -9,7 +9,7 @@
 - Stan Tomov, University of Tennessee, GitHub: stomov
 - Sarah Knepper, Intel Corporation, GitHub: sknepper
 - Charles Ferenbaugh, Los Alamos National Laboratory, GitHub: cferenba
-- Vadim Dyadechko, ExxonMobil, GitHub: tbd
+- Vadim Dyadechko, ExxonMobil, GitHub: vdyadechko
 - Ulrike Meier Yang, Lawrence Livermore National Laboratory, GitHub: ulrikeyang
 - David Moulton, Los Alamos National Laboratory, GitHub: jd-moulton
 - Han Yong Wunrow, Sandia National Laboratory, GitHub: hwunrow
