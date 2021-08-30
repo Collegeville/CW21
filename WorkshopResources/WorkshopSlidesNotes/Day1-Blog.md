@@ -3,12 +3,12 @@
 ### Contributors
 - Todd Munson, Argonne National Laboratory, GitHub: tmunson
 - Anshu Dubey, Argonne National Laboratory, GitHub: adubey64
-- Sam Yates, Swiss National Supercomputing Centre; GitHub: halfflat
+- Sam Yates, Swiss National Supercomputing Centre, GitHub: halfflat
 - Barry Smith, Argonne National Laboratory, GitHub: BarrySmith
-- Sarah Knepper, Intel Corporation; GitHub: sknepper
-- Ulrike Meier Yang, Lawrence Livermore National Laboratory; GitHub: ulrikeyang
-- Reed Milewicz, Sandia National Labs, GitHub: rmmilewi
-- Jacob Moxley, Sandia National Labs, jmox0351
+- Sarah Knepper, Intel Corporation, GitHub: sknepper
+- Ulrike Meier Yang, Lawrence Livermore National Laboratory, GitHub: ulrikeyang
+- Reed Milewicz, Sandia National Laboratories, GitHub: rmmilewi
+- Jacob Moxley, Sandia National Laboratories, GitHub: jmox0351
 - Ben Cowan, Pilot AI, GitHub: benc303
 - Sarah Osborn, Lawrence Livermore National Laboratory, GitHub: osborn9
 - Robert Jacob, Argonne National Laboratory, GitHub: rljacob
@@ -16,13 +16,13 @@
 - Gerasimos Chourdakis, Technical University of Munich, GitHub: MakisH
 - Jay Lofstead, Sandia National Labs, GitHub: gflofst
 - Cody Balos, Lawrence Livermore National Laboratory, GitHub: balos1
-- Lois Curfman McInnes, Argonne National Laboratory, Github: curfman
+- Lois Curfman McInnes, Argonne National Laboratory, GitHub: curfman
 - Jed Brown, CU Boulder, GitHub: jedbrown
-- James Willenbring, Sandia National Labs, GitHub: jwillenbring
+- James Willenbring, Sandia National Laboratories, GitHub: jwillenbring
 - Vadim Dyadechko, ExxonMobil, GitHub: vdyadechko
-- Elaine Raybourn, Sandia National Labs, GitHub: elaineraybourn
+- Elaine Raybourn, Sandia National Laboratories, GitHub: elaineraybourn
 ### Editors:
-- Michael A. Heroux, St. John's University, Sandia National Labs, GitHub: maherou
+- Michael A. Heroux, St. John's University, Sandia National Laboratories, GitHub: maherou
 - Johanna Cohoon, UT Austin, GitHub: jlcohoon
 
 ## Background: The Collegeville Workshop Series

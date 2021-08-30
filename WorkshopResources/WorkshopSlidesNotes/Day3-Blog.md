@@ -12,13 +12,13 @@
 - Vadim Dyadechko, ExxonMobil, GitHub: vdyadechko
 - Ulrike Meier Yang, Lawrence Livermore National Laboratory, GitHub: ulrikeyang
 - David Moulton, Los Alamos National Laboratory, GitHub: jd-moulton
-- Han Yong Wunrow, Sandia National Laboratory, GitHub: hwunrow
+- Han Yong Wunrow, Sandia National Laboratories, GitHub: hwunrow
 - Benjamin Sims, Los Alamos National Laboratory, GitHub: bhsims
-- Jay Lofstead, Sandia National Labs, GitHub: gflofst
+- Jay Lofstead, Sandia National Laboratories, GitHub: gflofst
 - Johanna Cohoon, University of Texas Austin, GitHub: jlcohoon
 - Reed Milewicz, Sandia National Laboratories, GitHub: rmmilewi
 - Todd Munson, Argonne National Laboratory, GitHub: tmunson
-- Sam Yates, Swiss National Supercomputing Centre; GitHub: halfflat
+- Sam Yates, Swiss National Supercomputing Centre, GitHub: halfflat
 
 ### Editors:
 - Daniel S. Katz, University of Illinois at Urbana-Champaign, GitHub: danielskatz

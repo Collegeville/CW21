@@ -6,7 +6,7 @@
 - Charles Ferenbaugh, Los Alamos National Laboratory, GitHub: cferenba
 - Sarah Osborn, Lawrence Livermore National Laboratory, GitHub: osborn9
 - Ulrike Meier Yang, Lawrence Livermore National Laboratory, GitHub: ulrikeyang
-- Sameer Shende, University of Oregon, GitHub: (sameershende)
+- Sameer Shende, University of Oregon, GitHub: sameershende
 - James Willenbring, Sandia National Laboratories, GitHub: jwillenbring 
 - Jacob Moxley, Sandia National Laboratories, GitHub: jmox0351 
 - Weslley Pereira, CU Denver, GitHub: weslleyspereira
@@ -25,7 +25,7 @@
 ### Editors
 - Sarah Knepper, Intel Corporation, GitHub: sknepper
 - Lois Curfman McInnes, Argonne National Laboratory, GitHub: curfman
-- Michael A. Heroux, St. John's University, Sandia National Labs, GitHub: maherou
+- Michael A. Heroux, St. John's University, Sandia National Laboratories, GitHub: maherou
 
 ## Background: The Collegeville Workshop Series
 What do multi-million dollar HPC projects have in common with a PI and their soon-to-be graduating doctoral student? What are the most pressing concerns of teams on the bleeding edge of scientific discovery? The Collegeville Workshop Series on Scientific Software brings together three communities of scientific software contributors: academia, industry, and laboratories. While there are existing exchanges between these communities, this workshop series is dedicated to improving the awareness of common needs, unique contributions, and career paths. Workshop contributions include short white papers and video interviews. The three-day live event includes panels, small-group discussions, and teatime sessions for themed conversations. This blog is the second of three that summarize the output from the small-group discussions in 2021. 
