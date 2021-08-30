@@ -1,23 +1,23 @@
 # Cultural Approaches to Improved Software Teams: A Report from Day 3 of the 2021 Collegeville Workshop on Scientific Software
 
 ### Contributors
-- Anshu Dubey, Argonne National Laboratory, GitHub: adubey64
-- Nur Fadel, Swiss National Supercomputing Centre, GitHub: nuraiman
-- Elaine Raybourn, Sandia National Laboratories, GitHub: elaineraybourn
-- Ben Cowan, Pilot AI, GitHub: benc303
-- Sarah Osborn, Lawrence Livermore National Laboratory, GitHub: osborn9
-- Stan Tomov, University of Tennessee, GitHub: stomov
-- Sarah Knepper, Intel Corporation, GitHub: sknepper
-- Charles Ferenbaugh, Los Alamos National Laboratory, GitHub: cferenba
-- Vadim Dyadechko, ExxonMobil, GitHub: vdyadechko
-- Ulrike Meier Yang, Lawrence Livermore National Laboratory, GitHub: ulrikeyang
-- David Moulton, Los Alamos National Laboratory, GitHub: jd-moulton
-- Han Yong Wunrow, Sandia National Laboratories, GitHub: hwunrow
-- Benjamin Sims, Los Alamos National Laboratory, GitHub: bhsims
-- Jay Lofstead, Sandia National Laboratories, GitHub: gflofst
 - Johanna Cohoon, University of Texas Austin, GitHub: jlcohoon
+- Ben Cowan, Pilot AI, GitHub: benc303
+- Anshu Dubey, Argonne National Laboratory, GitHub: adubey64
+- Vadim Dyadechko, ExxonMobil, GitHub: vdyadechko
+- Nur Fadel, Swiss National Supercomputing Centre, GitHub: nuraiman
+- Charles Ferenbaugh, Los Alamos National Laboratory, GitHub: cferenba
+- Sarah Knepper, Intel Corporation, GitHub: sknepper
+- Jay Lofstead, Sandia National Laboratories, GitHub: gflofst
 - Reed Milewicz, Sandia National Laboratories, GitHub: rmmilewi
+- David Moulton, Los Alamos National Laboratory, GitHub: jd-moulton
 - Todd Munson, Argonne National Laboratory, GitHub: tmunson
+- Sarah Osborn, Lawrence Livermore National Laboratory, GitHub: osborn9
+- Elaine Raybourn, Sandia National Laboratories, GitHub: elaineraybourn
+- Benjamin Sims, Los Alamos National Laboratory, GitHub: bhsims
+- Stan Tomov, University of Tennessee, GitHub: stomov
+- Han Yong Wunrow, Sandia National Laboratories, GitHub: hwunrow
+- Ulrike Meier Yang, Lawrence Livermore National Laboratory, GitHub: ulrikeyang
 - Sam Yates, Swiss National Supercomputing Centre, GitHub: halfflat
 
 ### Editors:
