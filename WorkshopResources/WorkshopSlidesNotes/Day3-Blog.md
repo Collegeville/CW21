@@ -1,4 +1,4 @@
-# Software Team Experiences and Challenges: A Report from Day 3 of the 2021 Collegeville Workshop on Scientific Software
+# Cultural Approaches to Improved Software Teams: A Report from Day 3 of the 2021 Collegeville Workshop on Scientific Software
 
 ### Contributors
 - Anshu Dubey, Argonne National Laboratory, GitHub: adubey64
@@ -36,8 +36,8 @@ Each day of the workshop focused on different aspects of software teamwork. The 
 ## Day 3: Cultural Approaches to Improved Software Teams
 After talking about teams and technical approaches to improving them in the first two days, we spent Day 3 talking about cultural approaches to improving teams. Two-thirds of the discussion participants were from research labs, with the others split between universities and industry. 18 participants chose to receive attribution for their contributions.
 
-### Key Challenges
-In the remainder of this article, we summarize the key challenges identified during the small group discussions.  The detailed notes from these discussions are available on the [Collegeville 2021 Workshop website](https://collegeville.github.io/CW21).
+### Key Cultural Approaches
+In the remainder of this article, we summarize the key cultural approaches to improving scientific software teams identified during the small group discussions.  The detailed notes from these discussions are available on the [Collegeville 2021 Workshop website](https://collegeville.github.io/CW21).
 
 **Motivating team members:** We need to use a combination of multiple approaches to motivate team members, recognizing that each person may have a different set of both intrinsic and extrinsic motivations for their actions and activities. Carrots (e.g., peer recognition, better research results) and sticks (e.g., journal requirements, funding requirements) absolutely influence culture and individual behavior, but a carrot to one person can be a stick to another. Better understanding researchers’ motivations can help effect culture change.
 
