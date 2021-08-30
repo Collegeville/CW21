@@ -2,25 +2,25 @@
 
 
 ### Contributors
-- Barry Smith, Argonne National Laboratory, GitHub: BarrySmith
-- Charles Ferenbaugh, Los Alamos National Laboratory, GitHub: cferenba
-- Sarah Osborn, Lawrence Livermore National Laboratory, GitHub: osborn9
-- Ulrike Meier Yang, Lawrence Livermore National Laboratory, GitHub: ulrikeyang
-- Sameer Shende, University of Oregon, GitHub: sameershende
-- James Willenbring, Sandia National Laboratories, GitHub: jwillenbring 
-- Jacob Moxley, Sandia National Laboratories, GitHub: jmox0351 
-- Weslley Pereira, CU Denver, GitHub: weslleyspereira
-- Gerasimos Chourdakis, Technical University of Munich, GitHub: MakisH
-- Vadim Dyadechko, ExxonMobil, GitHub: vdyadechko
-- Jay Lofstead, Sandia National Laboratories, GitHub: gflofst
-- Johanna Cohoon, UT Austin, GitHub: jlcohoon
-- Robert Jacob, Argonne National Laboratory, GitHub:rljacob
 - Keith Beattie, Lawrence Berkeley National Laboratory, GitHub: ksbeattie
-- Reed Milewicz, Sandia National Laboratories, GitHub: rmmilewi
-- Todd Munson, Argonne National Laboratory, GitHub: tmunson
-- David Moulton, Los Alamos National Laboratory, GitHub: jd-moulton
-- Sam Yates, Swiss National Supercomputing Centre, GitHub: halfflat
+- Gerasimos Chourdakis, Technical University of Munich, GitHub: MakisH
+- Johanna Cohoon, UT Austin, GitHub: jlcohoon
+- Vadim Dyadechko, ExxonMobil, GitHub: vdyadechko
 - Nur Fadel, Swiss National Supercomputing Centre, GitHub: nuraiman
+- Charles Ferenbaugh, Los Alamos National Laboratory, GitHub: cferenba
+- Robert Jacob, Argonne National Laboratory, GitHub:rljacob
+- Jay Lofstead, Sandia National Laboratories, GitHub: gflofst
+- Reed Milewicz, Sandia National Laboratories, GitHub: rmmilewi
+- David Moulton, Los Alamos National Laboratory, GitHub: jd-moulton
+- Jacob Moxley, Sandia National Laboratories, GitHub: jmox0351 
+- Todd Munson, Argonne National Laboratory, GitHub: tmunson
+- Sarah Osborn, Lawrence Livermore National Laboratory, GitHub: osborn9
+- Weslley Pereira, CU Denver, GitHub: weslleyspereira
+- Sameer Shende, University of Oregon, GitHub: sameershende
+- Barry Smith, Argonne National Laboratory, GitHub: BarrySmith
+- James Willenbring, Sandia National Laboratories, GitHub: jwillenbring 
+- Ulrike Meier Yang, Lawrence Livermore National Laboratory, GitHub: ulrikeyang
+- Sam Yates, Swiss National Supercomputing Centre, GitHub: halfflat
 
 ### Editors
 - Sarah Knepper, Intel Corporation, GitHub: sknepper

@@ -1,26 +1,26 @@
 # Software Team Experiences and Challenges: A Report from Day 1 of the 2021 Collegeville Workshop on Scientific Software
 
 ### Contributors
-- Todd Munson, Argonne National Laboratory, GitHub: tmunson
+- Cody Balos, Lawrence Livermore National Laboratory, GitHub: balos1
+- Jed Brown, CU Boulder, GitHub: jedbrown
+- Gerasimos Chourdakis, Technical University of Munich, GitHub: MakisH
+- Ben Cowan, Pilot AI, GitHub: benc303
 - Anshu Dubey, Argonne National Laboratory, GitHub: adubey64
-- Sam Yates, Swiss National Supercomputing Centre, GitHub: halfflat
-- Barry Smith, Argonne National Laboratory, GitHub: BarrySmith
+- Vadim Dyadechko, ExxonMobil, GitHub: vdyadechko
+- Robert Jacob, Argonne National Laboratory, GitHub: rljacob
 - Sarah Knepper, Intel Corporation, GitHub: sknepper
-- Ulrike Meier Yang, Lawrence Livermore National Laboratory, GitHub: ulrikeyang
+- Jay Lofstead, Sandia National Labs, GitHub: gflofst
+- Lois Curfman McInnes, Argonne National Laboratory, GitHub: curfman
 - Reed Milewicz, Sandia National Laboratories, GitHub: rmmilewi
 - Jacob Moxley, Sandia National Laboratories, GitHub: jmox0351
-- Ben Cowan, Pilot AI, GitHub: benc303
+- Todd Munson, Argonne National Laboratory, GitHub: tmunson
 - Sarah Osborn, Lawrence Livermore National Laboratory, GitHub: osborn9
-- Robert Jacob, Argonne National Laboratory, GitHub: rljacob
 - Jim Pivarski, Princeton and IRIS-HEP, GitHub: jpivarski
-- Gerasimos Chourdakis, Technical University of Munich, GitHub: MakisH
-- Jay Lofstead, Sandia National Labs, GitHub: gflofst
-- Cody Balos, Lawrence Livermore National Laboratory, GitHub: balos1
-- Lois Curfman McInnes, Argonne National Laboratory, GitHub: curfman
-- Jed Brown, CU Boulder, GitHub: jedbrown
-- James Willenbring, Sandia National Laboratories, GitHub: jwillenbring
-- Vadim Dyadechko, ExxonMobil, GitHub: vdyadechko
 - Elaine Raybourn, Sandia National Laboratories, GitHub: elaineraybourn
+- Barry Smith, Argonne National Laboratory, GitHub: BarrySmith
+- James Willenbring, Sandia National Laboratories, GitHub: jwillenbring
+- Ulrike Meier Yang, Lawrence Livermore National Laboratory, GitHub: ulrikeyang
+- Sam Yates, Swiss National Supercomputing Centre, GitHub: halfflat
 ### Editors:
 - Michael A. Heroux, St. John's University, Sandia National Laboratories, GitHub: maherou
 - Johanna Cohoon, UT Austin, GitHub: jlcohoon
