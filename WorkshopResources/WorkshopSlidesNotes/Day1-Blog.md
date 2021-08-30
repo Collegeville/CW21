@@ -3,12 +3,12 @@
 ### Contributors
 - Todd Munson, Argonne National Laboratory, GitHub: tmunson
 - Anshu Dubey, Argonne National Laboratory, GitHub: adubey64
-- Sam Yates, Swiss National Supercomputing Centre; GitHub: halfflat
+- Sam Yates, Swiss National Supercomputing Centre, GitHub: halfflat
 - Barry Smith, Argonne National Laboratory, GitHub: BarrySmith
-- Sarah Knepper, Intel Corporation; GitHub: sknepper
-- Ulrike Meier Yang, Lawrence Livermore National Laboratory; GitHub: ulrikeyang
-- Reed Milewicz, Sandia National Labs, GitHub: rmmilewi
-- Jacob Moxley, Sandia National Labs, jmox0351
+- Sarah Knepper, Intel Corporation, GitHub: sknepper
+- Ulrike Meier Yang, Lawrence Livermore National Laboratory, GitHub: ulrikeyang
+- Reed Milewicz, Sandia National Laboratories, GitHub: rmmilewi
+- Jacob Moxley, Sandia National Laboratories, GitHub: jmox0351
 - Ben Cowan, Pilot AI, GitHub: benc303
 - Sarah Osborn, Lawrence Livermore National Laboratory, GitHub: osborn9
 - Robert Jacob, Argonne National Laboratory, GitHub: rljacob
@@ -16,13 +16,13 @@
 - Gerasimos Chourdakis, Technical University of Munich, GitHub: MakisH
 - Jay Lofstead, Sandia National Labs, GitHub: gflofst
 - Cody Balos, Lawrence Livermore National Laboratory, GitHub: balos1
-- Lois Curfman McInnes, Argonne National Laboratory, Github: curfman
+- Lois Curfman McInnes, Argonne National Laboratory, GitHub: curfman
 - Jed Brown, CU Boulder, GitHub: jedbrown
-- James Willenbring, Sandia National Labs, GitHub: jwillenbring
+- James Willenbring, Sandia National Laboratories, GitHub: jwillenbring
 - Vadim Dyadechko, ExxonMobil, GitHub: vdyadechko
-- Elaine Raybourn, Sandia National Labs, GitHub: elaineraybourn
+- Elaine Raybourn, Sandia National Laboratories, GitHub: elaineraybourn
 ### Editors:
-- Michael A. Heroux, St. John's University, Sandia National Labs, GitHub: maherou
+- Michael A. Heroux, St. John's University, Sandia National Laboratories, GitHub: maherou
 - Johanna Cohoon, UT Austin, GitHub: jlcohoon
 
 ## Background: The Collegeville Workshop Series
@@ -32,7 +32,7 @@ What do multi-million dollar HPC projects have in common with a PI and their soo
 The Collegeville 2021 theme was software teams. Research software and scientific discovery is often advanced by collaborative teams rather than individuals. Yet, scientific software teams are often conducting their work with little knowledge of how to best take advantage of their collective experience. A new frontier for scientific software can be met with a better understanding of how software teams function and how teamwork can be improved. As we focus on improving software teams, we see value in augmenting the traditionally-valued expertise of computer scientists, mathematicians, and software engineers with the expertise of social, information, and cognitive scientists.
 
 ### Workshop Small Group Discussions
-Each day of the workshop focused on different aspects of software teamwork. The first day of live discussion focused on software team experiences and challenges; the second day on technical strategies for improvement; the third day on cultural approaches for improvement. Small groups gathered live over video conference to discuss the topic of the day, each group creating a shared notes file. Because the workshop participants come from different work settings and have varying experiences with scientific software (see below) these discussions were a rare opportunity to identify shared concerns and recognize differences among scientific software teams. More than *representing* their shared knowledge, however, our intention is for these discussions to *impact* the diverse communities that participated in them.
+Each day of the workshop focused on different aspects of software teamwork. The first day of live discussion focused on software team experiences and challenges; the second day on technical strategies for improvement; the third day on cultural approaches for improvement. Small groups gathered live over video conference to discuss the topic of the day, each group creating a shared notes file. Because the workshop participants come from different work settings and have varying experiences with scientific software (see below), these discussions were a rare opportunity to identify shared concerns and recognize differences among scientific software teams. More than *representing* their shared knowledge, however, our intention is for these discussions to *impact* the diverse communities that participated in them.
 
 ## Day 1: Software Team Experiences and Challenges
 To provide a framework for discussing software team improvement, we spent Day 1 of Collegeville 2021 learning about each other, our backgrounds, and what we see as the greatest challenges to improving software teams. 
@@ -54,7 +54,7 @@ In the remainder of this article, we summarize the key challenges identified dur
 
 **Curating and maintaining knowledge:** Teams observing best practices may have many conversations and tools that support maintenance of the software product, such as regression testing or continuous integration. However, our discussion groups agreed that less attention is paid to ensuring that knowledge about the product is curated and maintained. As teams grow in size or diversity, knowledge maintenance becomes more complex. Growth is likely to occur across disciplines and institutions, meaning that vocabularies and infrastructure must be aligned. Knowledge curation and maintenance will also differ depending on a team’s purpose. For instance, software development teams will need different approaches from software deployment and support teams. Preparing for staff departure, creating paths for long-term membership, and otherwise committing to the long-term viability of a scientific software project represent opportunities for reducing tacit knowledge and improving knowledge transfer among team members. However, some attempted solutions to these challenges that our discussants have tried, such as teach-ins, are hard to justify when deadlines loom.
 
-**Evolving team practices and structure in sync with the software:** The initial practices, tools, and infrastructure adopted by a team will need to evolve to take advantage of emerging approaches and tools and to improve effectiveness and efficiency as the team grows. Evolution includes enabling bottom up change, and giving individual contributors autonomy to explore new approaches and receive recognition for their contributions. Additionally, as the teams grow in size and diversity, their communication efforts become more difficult; one discussion group described domain scientists and computer scientists as working with people speaking different languages. While modern tools can facilitate communication across even non-collocated teams, they cannot reconcile differences in vocabulary, priorities, or conceptions of software-quality.
+**Evolving team practices and structure in sync with the software:** The initial practices, tools, and infrastructure adopted by a team will need to evolve to take advantage of emerging approaches and tools and to improve effectiveness and efficiency as the team grows. Evolution includes enabling bottom up change, and giving individual contributors autonomy to explore new approaches and receive recognition for their contributions. Additionally, as the teams grow in size and diversity, their communication efforts become more difficult; one discussion group described domain scientists and computer scientists as working with people speaking different languages. While modern tools can facilitate communication across even non-collocated teams, they cannot reconcile differences in vocabulary, priorities, or conceptions of software quality.
 
 **Collaborating across software teams:** For a healthy software ecosystem, software development teams must communicate and collaborate with one another but they may approach their work from different viewpoints. Application teams, for instance, develop software that is targeted for a specific computational problem. In contrast, teams that develop libraries and other reusable components focus on a broader set of uses which are based on characteristic examples derived from interaction with their user community. Our discussants noted that application teams have design concerns on one end (dependencies), library teams have concerns on both (dependencies and dependents), but both team types have a joint responsibility to work through APIs. Collaborations between application and library teams require determining how to design and develop capabilities in the spaces between software providers and clients. Challenges include how to integrate the library team with the application user community, how to foster software ecosystem perspectives (especially around collaborative development of APIs), and designating concrete staffing roles for shepherding API development and adoption.
 
