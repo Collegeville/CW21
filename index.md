@@ -1,7 +1,7 @@
 
 # Collegeville 2021 Home
 
-![](assets/Collegeville21WorkshopBanner.pdf)
+![](assets/Collegeville21WorkshopIcon.jpg)
 
 
 ### Details
